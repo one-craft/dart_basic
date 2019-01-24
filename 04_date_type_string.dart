@@ -5,8 +5,9 @@
  * 运算符号 + * == []
  * 插值表达式 $ ${}
  * 常用属性 length isEmpty isNotEmpty
- * 常用方法 contains() subString() startsWith() endsWith() indexOf() lastIndexOf()
- *        toLowerCase() toUpperCase() trim() trimLeft() trimRight() 
+ * 常用方法 
+ * contains() subString() startsWith() endsWith() indexOf() lastIndexOf()
+ * toLowerCase() toUpperCase() trim() trimLeft() trimRight() 
  * 
  */
 
