@@ -30,4 +30,9 @@ void main() {
   num b = 4;
   print("a = $a");
   print("a + b = ${a + b}");
+
+  String str5 = '        hello world I am man         ';
+  print(str5.trim());
+  print(str5.trimLeft());
+  print(str5.trimRight());
 }

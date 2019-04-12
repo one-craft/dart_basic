@@ -9,7 +9,7 @@
  * clear()
  * containsKey()
  * containsValue()
- * forEacht()
+ * forEach()
  */
 
 void main() {
@@ -17,7 +17,7 @@ void main() {
 
   // 创建不可变Map
   const map2 = {'first':'Java','second':'Dart'};
-  var map3 = const{'first':'Java','second':'Dart'};
+  var map3 = const {'first':'Java','second':'Dart'};
 
   //使用类创建
   var map4 = new Map();
